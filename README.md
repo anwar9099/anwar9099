@@ -1,9 +1,12 @@
-🚀 I'm a **DevOps Engineer** who has successfully completed a **DevOps Apprenticeship**, gaining hands-on experience with real-world infrastructure, automation, and deployment practices.  
-💡 I'm passionate about continuous learning—especially in **cloud computing**, **containerisation**, and building robust **CI/CD pipelines**.  
-Every project is an opportunity to deepen my expertise and apply the best practices that power effective DevOps.
+## 👋 Hi there, I'm Anwar
+
+🚀 I'm a **DevOps Engineer** with proficiency in tools like **Linux**, **Git**, **Azure**, **Docker**, **Terraform**, and **SQL**.  
+💡 I'm driven by a passion for continuous learning—especially in **cloud computing**, **containerization**, and building robust **CI/CD pipelines**.  
+Every project is an opportunity to deepen my expertise and apply the best practices that power effective DevOps. 
 
 Always open to connecting, collaborating, and growing together.  
 Let’s build smarter, faster, and better—together!
+
 ---
 
 ## 💻 Tech Stack
@@ -20,3 +23,8 @@ Let’s build smarter, faster, and better—together!
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
+
+## 📫 Connect with Me
+
+- LinkedIn: www.linkedin.com/in/anwar-mohamed-12535a222
+
