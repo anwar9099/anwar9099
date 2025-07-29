@@ -3,9 +3,8 @@
 🚀 I'm a **DevOps Engineer** with proficiency in tools like **Linux**, **Git**, **Azure**, **Docker**, **Terraform**, and **SQL**.  
 💡 I'm driven by a passion for continuous learning—especially in **cloud computing**, **containerization**, and building robust **CI/CD pipelines**.  
 Every project is an opportunity to deepen my expertise and apply the best practices that power effective DevOps. 
-
-Always open to connecting, collaborating, and growing together.  
-Let’s build smarter, faster, and better—together!
+ 
+Let’s build smarter, faster, and better!
 
 ---
 
